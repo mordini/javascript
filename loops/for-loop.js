@@ -3,7 +3,7 @@
 
 // THIS IS A 'FOR' LOOP, named for the...'for'.
 for (let count = 0; count < 10; count++) {
-  console.log(i);
+  console.log(`count is ${count}`);
 }
 
 /*
