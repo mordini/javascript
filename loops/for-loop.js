@@ -6,11 +6,8 @@ for (let count = 0; count < 10; count++) {
   console.log(i);
 }
 
-
-
 /*
  // IT IS CONSTRUCTED LIKE SO
-
 
 for (initialExpression; condition; updateExpression) {
     // FOR LOOP BODY
